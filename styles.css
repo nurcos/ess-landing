@@ -63,16 +63,39 @@ body {
     margin: 5% auto;
     width: 700px;
     text-align: center;
-    padding: 0%;
 }
 
 .container img {
     width: 80%;
-    margin: 10%;
+    margin-top: 10%;
 }
 
 h1 {
     font-size: 2em;
     color: #363534;
     padding: 2%;
+    margin-bottom: 5%;
+}
+
+p {
+    font-size: 1.5em;
+    color: #363534;
+}
+
+.contact {
+    font-size: 1.5em;
+    color: #363534;
+    width: 50%;
+}
+
+.contact img {
+    width: 5%;
+}
+
+.email {
+    float: left;
+}
+
+.phone {
+    float: right;
 }
